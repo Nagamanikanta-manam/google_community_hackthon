@@ -1,0 +1,30 @@
+{
+  "name": "constituency-ai-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "seed": "node src/scripts/seedSubmissions.js",
+    "cluster": "node src/clustering/clusterSubmissions.js",
+    "rank": "node src/scoring/runScoring.js",
+    "load-reference": "node src/scripts/loadReference.js"
+  },
+  "dependencies": {
+    "@google-cloud/bigquery": "^7.9.1",
+    "@google-cloud/firestore": "^7.11.0",
+    "@google-cloud/speech": "^6.7.1",
+    "@google-cloud/storage": "^7.14.0",
+    "@google-cloud/translate": "^8.5.0",
+    "@google/generative-ai": "^0.21.0",
+    "@googlemaps/google-maps-services-js": "^3.4.0",
+    "cors": "^2.8.5",
+    "csv-parse": "^5.6.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "multer": "^2.0.2",
+    "twilio": "^6.0.2",
+    "uuid": "^11.0.5"
+  }
+}

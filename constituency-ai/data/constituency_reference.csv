@@ -1,0 +1,17 @@
+village_name,ward_id,population,school_enrollment_count,nearest_school_distance_km,has_phc,nearest_hospital_distance_km,water_coverage_pct,road_type,electrification_pct,lat,lng
+Ramapuram,W01,4200,380,6.2,false,14.5,58,unpaved,72,14.6819,77.5946
+Kothapalli,W02,3100,210,2.1,true,3.0,81,paved,90,14.7205,77.6402
+Singanamala,W03,6800,540,4.8,true,5.5,67,paved,85,14.6102,77.7561
+Bukkarayasamudram,W04,2600,150,9.4,false,18.2,45,unpaved,60,14.5763,77.5487
+Rayadurg,W05,9100,720,1.5,true,2.0,88,paved,94,14.6900,76.8550
+Kalyandurg,W06,5200,410,3.3,true,7.8,70,paved,80,14.5450,77.1050
+Tadipatri,W07,11200,890,1.0,true,1.8,92,paved,96,14.9090,78.0100
+Dharmavaram,W08,8700,650,2.8,true,4.2,75,paved,89,14.4140,77.7180
+Guntakal,W09,7600,300,11.6,false,22.5,40,unpaved,55,15.1670,77.3670
+Kadiri,W10,4900,395,5.9,false,13.1,52,unpaved,68,14.1160,78.1580
+Rapthadu,W11,3300,265,3.6,true,6.4,63,paved,77,14.5850,77.5720
+Atmakur,W12,2900,180,8.2,false,16.0,48,unpaved,58,14.6350,77.6890
+Peddavadugur,W13,3700,300,4.4,true,8.9,66,paved,79,14.7460,77.7930
+Amadagur,W14,2100,120,10.5,false,20.3,38,unpaved,50,14.6520,77.4310
+Vidapanakal,W15,4600,360,2.4,true,3.9,84,paved,88,14.7010,77.6120
+Bommanahal,W16,3050,240,7.1,false,15.4,55,unpaved,64,14.8020,76.9840
